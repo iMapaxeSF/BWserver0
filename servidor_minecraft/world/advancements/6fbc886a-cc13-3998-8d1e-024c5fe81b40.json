@@ -1,0 +1,64 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-19 16:56:25 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-04-19 16:56:25 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-04-19 16:56:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-19 16:56:25 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-19 16:56:25 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-04-19 16:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-19 19:11:56 +0000",
+      "minecraft:river": "2025-04-19 19:10:57 +0000",
+      "minecraft:dripstone_caves": "2025-04-19 19:12:38 +0000",
+      "minecraft:grove": "2025-04-19 19:15:37 +0000",
+      "minecraft:lush_caves": "2025-04-19 19:17:08 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-19 16:56:26 +0000",
+      "minecraft:frozen_peaks": "2025-04-19 19:15:34 +0000",
+      "minecraft:deep_dark": "2025-04-19 19:14:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-19 19:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-19 19:18:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
