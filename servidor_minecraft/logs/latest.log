@@ -19,3 +19,10 @@
 [20Apr2025 00:11:49.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iMapaxeSF left the game
 [20Apr2025 00:11:49.648] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client iMapaxeSF
 [20Apr2025 00:11:49.696] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Apr2025 00:14:12.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iMapaxeSF[/100.115.243.14:55275] logged in with entity id 2085 at (8.983697755863185, 95.0, 19.99465355446521)
+[20Apr2025 00:14:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iMapaxeSF joined the game
+[20Apr2025 00:14:13.505] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of iMapaxeSF (18)
+[20Apr2025 00:14:13.505] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to iMapaxeSF
+[20Apr2025 00:14:19.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6fbc886a-cc13-3998-8d1e-024c5fe81b40
+[20Apr2025 00:14:20.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6fbc886a-cc13-3998-8d1e-024c5fe81b40
+[20Apr2025 00:14:20.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player iMapaxeSF (6fbc886a-cc13-3998-8d1e-024c5fe81b40) successfully connected to voice chat
