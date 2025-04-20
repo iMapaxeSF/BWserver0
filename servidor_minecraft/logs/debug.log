@@ -3540,3 +3540,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [20Apr2025 00:02:01.860] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [20Apr2025 00:02:01.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luctiha joined the game
 [20Apr2025 00:02:01.920] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Luctiha: {disabled=false, disconnected=true, uuid=a557cebf-a088-31ae-9d1e-24f66c85b3a1, name=Luctiha, group=null}
+[20Apr2025 00:02:03.925] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Luctiha (18)
+[20Apr2025 00:02:03.926] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Luctiha
+[20Apr2025 00:02:03.926] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Luctiha
+[20Apr2025 00:02:03.926] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Luctiha
+[20Apr2025 00:02:03.926] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Luctiha
+[20Apr2025 00:02:22.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a557cebf-a088-31ae-9d1e-24f66c85b3a1
+[20Apr2025 00:02:23.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a557cebf-a088-31ae-9d1e-24f66c85b3a1
+[20Apr2025 00:02:23.359] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Luctiha to connected: {disabled=false, disconnected=false, uuid=a557cebf-a088-31ae-9d1e-24f66c85b3a1, name=Luctiha, group=null}
+[20Apr2025 00:02:23.359] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Luctiha (a557cebf-a088-31ae-9d1e-24f66c85b3a1) successfully connected to voice chat
+[20Apr2025 00:02:23.568] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Luctiha: {disabled=true, disconnected=false, uuid=a557cebf-a088-31ae-9d1e-24f66c85b3a1, name=Luctiha, group=null}
+[20Apr2025 00:02:24.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luctiha lost connection: Disconnected
+[20Apr2025 00:02:24.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luctiha left the game
+[20Apr2025 00:02:24.501] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Luctiha
+[20Apr2025 00:02:24.501] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luctiha
+[20Apr2025 00:02:40.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 00:02:40.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 00:07:40.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 00:07:40.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 00:08:58.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iMapaxeSF: Removed 3 item(s) from player iMapaxeSF]
+[20Apr2025 00:09:00.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iMapaxeSF is incapacitated!
+[20Apr2025 00:09:00.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iMapaxeSF: Killed iMapaxeSF]
+[20Apr2025 00:09:15.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iMapaxeSF is incapacitated!
+[20Apr2025 00:09:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iMapaxeSF: Killed iMapaxeSF]
+[20Apr2025 00:09:16.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iMapaxeSF was killed
+[20Apr2025 00:09:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iMapaxeSF: Killed iMapaxeSF]
+[20Apr2025 00:09:18.472] [Worker-Main-13/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Apr2025 00:09:18.474] [Worker-Main-13/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Apr2025 00:09:19.175] [Worker-Main-23/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[20Apr2025 00:09:19.176] [Worker-Main-23/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[20Apr2025 00:11:49.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iMapaxeSF lost connection: Disconnected
+[20Apr2025 00:11:49.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iMapaxeSF left the game
+[20Apr2025 00:11:49.648] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of iMapaxeSF
+[20Apr2025 00:11:49.648] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client iMapaxeSF
+[20Apr2025 00:11:49.696] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
